@@ -6,7 +6,7 @@
   3. [Decodificador de señales de control](./Taller/Taller%203)
   4. [Circuito Auto-Reset](./Taller/Taller%204)
   5. [PPI8255 Display](./Taller/Taller%205)
-  6. [AVR assembler](./Taller/Taller%206b)
+  6. [AVR assembler](./Taller/Taller%206)
   7. [Generador UART](./Taller/Taller%207)
   8. [Puertos E/S (Tx Serie)](./Taller/Taller%208)
   9. [UART Config](./Taller/Taller%209)
