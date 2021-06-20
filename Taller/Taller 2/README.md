@@ -1,4 +1,4 @@
-1. Ensamble el siguiente código (mnemónicos) a su correspondiente código (hexadecimal) de 8088:
+#### 1. Ensamble el siguiente código (mnemónicos) a su correspondiente código (hexadecimal) de 8088:
 
 | - | nemónicos | Binario | Hexadecimal |
 | - | - | - | - |
@@ -12,7 +12,7 @@
 | - | loop next | 1110 0010 1111 1010 | E2FA |
 | - | - | - | - |
 
-2. Decodifique los siguientes opcode para un procesador 8088 utilizando los mnemónicos correspondientes:
+#### 2. Decodifique los siguientes opcode para un procesador 8088 utilizando los mnemónicos correspondientes:
 
 | Dirección | Contenido | Binario | OpCode |
 | - | - | - | - |
