@@ -1,3 +1,11 @@
+/* =====================================================================
+* @author Abraham Medina Carrillo
+* @email abraham.medina.carrillo@uabc.edu.mx
+*
+* @website https://github.com/Medina1402
+* @repository ** private **
+* ===================================================================== */
+
 #define BYTE unsigned char
 #define WORD unsigned int
 #define PA 0x40
