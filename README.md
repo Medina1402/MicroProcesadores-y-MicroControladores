@@ -28,3 +28,4 @@
 ### **[Ejercicios](./Ejercicios)**
   1. [Tiempo de pulsaciones](./Ejercicios/Tiempo%20de%20pulsacion)
   2. [Tiempo promedio de pulsaciones (juego)](./Ejercicios/Tiempo%20de%20pulsacion%20promedio)
+  3. [Control de LED por PWM](./Ejercicios/Control%20de%20LED%20PWM)
