@@ -26,5 +26,5 @@
   11. [Animacion de Matrix con Interrupciones](./Laboratorio/Practica%20A)
 
 ### Ejercicios
-  1. [Tiempo promedio de pulsaciones (juego)](./Ejercicios/Tiempo%20de%20pulsacion)
+  1. [Tiempo de pulsaciones](./Ejercicios/Tiempo%20de%20pulsacion)
   2. [Tiempo promedio de pulsaciones (juego)](./Ejercicios/Tiempo%20de%20pulsacion%20promedio)
