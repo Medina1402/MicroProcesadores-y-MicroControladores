@@ -1,7 +1,7 @@
 # 📟 MicroProcesadores y MicroControladores
 
 ### Taller
-  1. [Licuadora](./tree/main/Laboratorio/Practica%201)
+  1. [Licuadora](./Laboratorio/Practica%201)
   2. [OpCode]()
   3. [Decodificador de señales de control]()
   4. [Circuito Auto-Reset]()
