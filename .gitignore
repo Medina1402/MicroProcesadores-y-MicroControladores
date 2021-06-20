@@ -1,6 +1,7 @@
 */**/*.componentinfo
 */**/*.cproj
 */**/*.atsln
-
 */**/Debug
+
+*/**/*.sh
 */**/*.zip
