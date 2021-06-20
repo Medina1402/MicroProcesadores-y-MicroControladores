@@ -1,3 +1,11 @@
+/* =====================================================================
+* @author Abraham Medina Carrillo
+* @email abraham.medina.carrillo@uabc.edu.mx
+*
+* @website https://github.com/Medina1402
+* @repository ** private **
+* ===================================================================== */
+
 #include <avr/io.h>
 #include "UART.h"
 #include "Timer0.h"
