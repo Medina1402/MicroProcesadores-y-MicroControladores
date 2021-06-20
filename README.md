@@ -2,15 +2,15 @@
 
 ### Taller
   1. [Licuadora](./Laboratorio/Practica%201)
-  2. [OpCode]()
-  3. [Decodificador de señales de control]()
-  4. [Circuito Auto-Reset]()
-  5. [PPI8255 Display]()
-  6. [AVR assembler]()
-  7. [Generador UART]()
-  8. [Puertos E/S (Tx Serie)]()
-  9. [UART Config]()
-  10. [ADC]()
+  2. [OpCode](./Laboratorio/Practica%202)
+  3. [Decodificador de señales de control](./Laboratorio/Practica%203)
+  4. [Circuito Auto-Reset](./Laboratorio/Practica%204)
+  5. [PPI8255 Display](./Laboratorio/Practica%205)
+  6. [AVR assembler](./Laboratorio/Practica%205b)
+  7. [Generador UART](./Laboratorio/Practica%206)
+  8. [Puertos E/S (Tx Serie)](./Laboratorio/Practica%207)
+  9. [UART Config](./Laboratorio/Practica%208)
+  10. [ADC](./Laboratorio/Practica%209)
 
 ### Laboratorio
   1. [ZigZag]()
