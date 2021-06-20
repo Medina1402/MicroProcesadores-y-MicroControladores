@@ -1,6 +1,6 @@
 # 📟 MicroProcesadores y MicroControladores
 
-### Taller
+### **[Taller](./Taller)**
   1. [Licuadora](./Taller/Taller%201)
   2. [OpCode](./Taller/Taller%202)
   3. [Decodificador de señales de control](./Taller/Taller%203)
@@ -12,7 +12,7 @@
   9. [UART Config](./Taller/Taller%209)
   10. [ADC](./Taller/Taller%20A)
 
-### Laboratorio
+### **[Laboratorio](./Laboratorio)**
   1. [ZigZag](./Laboratorio/Practica%201)
   2. [Conversor decimal a binario y hexadecimal](./Laboratorio/Practica%202)
   3. [Prueba de la Seccion de Memoria](./Laboratorio/Practica%203)
@@ -25,6 +25,6 @@
   10. [Animacion de Matrix con Delay (asm avr)](./Laboratorio/Practica%209)
   11. [Animacion de Matrix con Interrupciones](./Laboratorio/Practica%20A)
 
-### Ejercicios
+### **[Ejercicios](./Ejercicios)**
   1. [Tiempo de pulsaciones](./Ejercicios/Tiempo%20de%20pulsacion)
   2. [Tiempo promedio de pulsaciones (juego)](./Ejercicios/Tiempo%20de%20pulsacion%20promedio)
