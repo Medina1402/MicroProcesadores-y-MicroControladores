@@ -13,13 +13,6 @@ static volatile uint8_t MSegFlag = 0;
 static uint8_t indexReg = 0;
 
 void Timer0_Ini() {
-	//TCNT0=0x06; /* Inicializar valor para el timer0 */
-	//TCCR0A=0x00; /* inicializa timer0 en modo 0 (normal) */
-	/* Inicializar con fuente de osc. Int. */
-	//TCCR0B=0x03; /* con Prescalador 64 */
-	//TIMSK0=0x01; /* habilita interrupcion del Timer0 */
-	//sei(); /* habilita interrupciones (global) */
-	
 	/* Timer0 Modo CTC, TOP = OCRA */
 	TCCR0A = 1 << WGM01;
 	
@@ -81,16 +74,13 @@ ISR( TIMER0_COMPA_vect ) {
 	static uint16_t mSecCnt;
 	static uint8_t counterReg;
 
-	// TCNT0+=0x06; /* Modo normal reinicializar Timer0 sin perder conteo */
 	mSecCnt++; /* Incrementa contador de milisegundos */
 	if( mSecCnt == 1000 ) {
 		mSecCnt=0;
 		SecFlag=1; /* Bandera de Segundos */
 	}
 
-	/* */
-	for(counterReg = 0; counterReg < indexReg; counterReg++) {
-		
+	for(counterReg = 0; counterReg < indexReg; counterReg++) {		
 		/* El timer estara habilitado siempre que la repeticion actual no supere la limite o que la limite sea 0 */
 		if(timers[counterReg].enabled) {
 			/* El intervalo de tiempo para el timer actual transcurrio */
