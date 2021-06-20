@@ -20,7 +20,7 @@
   5. [Interrupciones temporizadas y E/S mapeada a memoria](./Laboratorio/Practica%205)
   6. [Sección de Entrada y Salida](./Laboratorio/Practica%205B)
   7. [Histograma de numeros pseudo-aleatorios](./Laboratorio/Practica%206)
-  8. [cc](./Laboratorio/Practica%207)
+  8. [Numero aleatorio en puertos I/O](./Laboratorio/Practica%207)
   9. [Prueba de UART 0, 1, 2 y 3](./Laboratorio/Practica%208)
   10. [Animacion de Matrix con Delay (asm avr)](./Laboratorio/Practica%209)
   11. [Animacion de Matrix con Interrupciones](./Laboratorio/Practica%20A)
